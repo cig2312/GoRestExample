@@ -93,24 +93,24 @@ ginkgo -r
 ```
 ##### Future Improvements/ Enhancements   
 
-- [] Introduce middleware for authentication
+- [ ] Introduce middleware for authentication
 
-- [] Remove hardcoded credentials 
+- [ ] Remove hardcoded credentials 
 
-- [] Better request validation 
+- [ ] Better request validation 
 
-- [] keyset pagination can be implemented, which is more efficient 
+- [ ] keyset pagination can be implemented, which is more efficient 
 
-- [] Error handling and error messages can be made more robust. 
+- [ ] Error handling and error messages can be made more robust. 
 
-- [] Higher test case coverage, Negative cases  
+- [ ] Higher test case coverage, Negative cases  
 
-- [] Content negotiation  
+- [ ] Content negotiation  
 
-- [] Implementation of a cache to improve performance. 
+- [ ] Implementation of a cache to improve performance. 
 
-- [] Gorm and database abstraction
+- [ ] Gorm and database abstraction
 
-
+ 
 
 
