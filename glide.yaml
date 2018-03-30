@@ -1,0 +1,11 @@
+package: gorestexample
+import:
+- package: github.com/dgrijalva/jwt-go
+  subpackages:
+  - request
+- package: github.com/gorilla/mux
+- package: github.com/lib/pq
+- package: github.com/pkg/errors
+testImport:
+- package: github.com/onsi/ginkgo
+- package: github.com/onsi/gomega
